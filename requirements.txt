@@ -1,0 +1,8 @@
+matplotlib
+pandas
+wget
+numpy
+seaborn
+plotly
+cufflinks
+scikit-learn
